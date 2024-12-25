@@ -22,9 +22,9 @@ kubectl get pods -n argocd
 
 # Create a Git repository for your Kubernetes manifests.
 
-# Add your repository to ArgoCD via CLI or UI:
+# Add  repository to ArgoCD via CLI or UI:
 
-argocd repo add https://github.com/yourusername/your-repo.git --username <your-username> --password <your-password>
+argocd repo add https://github.com/niyaz-hasan/cicd-Argocd-manifests-repo.git --username niyaz-hasan --password my-password
 
 # Create an ArgoCD Application
 
