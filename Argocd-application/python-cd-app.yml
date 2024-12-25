@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Aniex-Labs/cicd-Argocd-manifests-repo.git
+    repoURL: https://github.com/niyaz-hasan/cicd-Argocd-manifests-repo.git
     targetRevision: main
     path: python-app-manifests
   destination:
