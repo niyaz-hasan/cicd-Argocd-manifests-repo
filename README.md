@@ -28,4 +28,4 @@ argocd repo add https://github.com/yourusername/your-repo.git --username <your-u
 
 # Create an ArgoCD Application
 
-
+kubectl apply -f Argocd-application/
